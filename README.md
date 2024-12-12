@@ -43,7 +43,8 @@ I have uploaded the video named "amishalargescale.mp4" download it locally and p
 - For the regsitration of udaf I took a lot of refrence of blog post some of them :
 
 https://stackoverflow.com/questions/33233737/spark-how-to-map-python-with-scala-or-java-user-defined-functions/33257733
-https://stackoverflow.com/questions/33233737/spark-how-to-map-python-with-scala-or-java-user-defined-functions/33257733
+https://spark.apache.org/docs/3.5.3/sql-ref-functions-udf-aggregate.html
+
 
 
 
