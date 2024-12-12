@@ -30,6 +30,10 @@ The jar file will be updated inside the folder target - inside scala-2.12 like "
 
 Then add the file location from S3  in start emr and run . In start emr scripts add in step "--jars".
 ```
+ # Register the Scala UDAF
+        ```
+        spark.sql("CREATE FUNCTION mode_function AS 'MostFrequentValueUDAF'")
+        ``
 
 # Video Demonstration:
 I have uploaded the video named "amishalargescale.mp4" download it locally and play the video. 
