@@ -31,6 +31,9 @@ The jar file will be updated inside the folder target - inside scala-2.12 like "
 Then add the file location from S3 in start emr and run .
 ```
 
+# Video Demonstration:
+I have uploaded the video named "amishalargescale.mp4" download it locally and play the video. 
+
 # Reference:
 
 - For the regsitration of udaf I took a lot of refrence of blog post some of them :
@@ -38,8 +41,7 @@ Then add the file location from S3 in start emr and run .
 https://stackoverflow.com/questions/33233737/spark-how-to-map-python-with-scala-or-java-user-defined-functions/33257733
 https://stackoverflow.com/questions/33233737/spark-how-to-map-python-with-scala-or-java-user-defined-functions/33257733
 
-# Video Demonstration:
-I have uploaded the video named "amishalargescale.mp4" download it locally and play the video. 
+
 
 
 
