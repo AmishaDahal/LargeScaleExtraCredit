@@ -1,0 +1,7 @@
+10 points - code & submission quality
+    -3 build.sbt is not included in the submission
+45 points - mode aggregation functionality
+15 points - Python test script
+20 points - demonstration video
+Total points: 87/90
+Good work, I liked your thorough explaination in the video!
